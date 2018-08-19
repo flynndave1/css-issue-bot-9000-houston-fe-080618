@@ -16,7 +16,7 @@ h2 {
 .completed {
   font-family: courier;
   font-size: 12px;
-  font-style: ;
+  text-decoration: line-through;
 }
 
 #tasks .completed {
